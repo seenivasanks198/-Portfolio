@@ -1,0 +1,455 @@
+{
+  "hero": {
+    "name": "K. Seenivasan",
+    "professionalTitle": "Senior Software Engineer | React & React Native Specialist",
+    "tagline": "Architecting high-performance cross-platform mobile apps & responsive web solutions with modern JavaScript, React, and React Native.",
+    "introduction": [
+      "I am a results-driven Software Engineer with over 4 years of experience specializing in building resilient React Native mobile applications and modern React.js web platforms. I excel at translating complex client requirements into intuitive, fluid user experiences backed by clean architecture and optimized REST API integrations.",
+      "At MitrahSoft Software Solutions, I engineer scalable cross-platform software across automotive sales, real estate technology, and fitness domains. My technical domain focuses heavily on FlatList rendering optimization, state architecture, component reusability, and seamless Android deployment workflows."
+    ],
+    "keyStrengths": [
+      "React Native & React.js Cross-Platform Development",
+      "High-Performance UI & List Virtualization (FlatList Optimization)",
+      "Robust REST API Integration & Async State Handling",
+      "Modular Component Architecture & Clean Code Practices",
+      "End-to-End Android Application Lifecycle & Deployment"
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "story": [
+      "Hello! I'm Seenivasan K, a passionate Software Engineer based in Kovilpatti, Tamil Nadu. My journey in technology began during my Computer Science degree at G. Venkataswamy Naidu College, where I discovered my deep fascination for web engineering and mobile app architecture.",
+      "Over the past several years, I have worked professionally at MitrahSoft Software Solutions, taking complete ownership of frontend and mobile projects. I specialize in building performant mobile apps using React Native and sleek web applications using React.js.",
+      "When I am not crafting pixel-perfect interfaces or tuning application performance, you can find me reading books, exploring emerging open-source tech stacks, or refining my software engineering best practices."
+    ],
+    "declaration": "I hereby declare that all information provided is accurate and reflects my professional experience and qualifications.",
+    "hobbies": [
+      "Reading technical blogs & non-fiction books",
+      "Exploring open-source React Native libraries",
+      "Ui/Ux design prototyping",
+      "Continuous learning in JavaScript & TypeScript ecosystem"
+    ],
+    "availability": "Available for Full-time Senior Frontend / React Native Roles & Consulting",
+    "location": "393, Valluva Nagar, Kovilpatti, Tamil Nadu, India",
+    "email": "vasanvenky188@gmail.com",
+    "phone": "+91 7448527821"
+  },
+  "careerSummary": "Accomplished Senior Software Engineer with proven expertise in React.js and React Native ecosystem. Specializes in building end-to-end mobile and web applications, designing modular UI components, optimizing app execution speed, and deploying production Android applications. Skilled at collaborating with cross-functional Agile teams to deliver business value on tight deadlines.",
+  "technicalSkills": [
+    {
+      "category": "Frontend",
+      "iconName": "Layout",
+      "skills": [
+        { "name": "React.js", "level": 92, "experienceYears": 4, "popular": true, "tag": "Core" },
+        { "name": "TypeScript", "level": 88, "experienceYears": 3, "popular": true, "tag": "Core" },
+        { "name": "JavaScript (ES6+)", "level": 94, "experienceYears": 4, "popular": true, "tag": "Core" },
+        { "name": "HTML5 & CSS3", "level": 95, "experienceYears": 4, "popular": false },
+        { "name": "Ant Design 5", "level": 85, "experienceYears": 2, "popular": true }
+      ]
+    },
+    {
+      "category": "Mobile",
+      "iconName": "Smartphone",
+      "skills": [
+        { "name": "React Native", "level": 94, "experienceYears": 4, "popular": true, "tag": "Expert" },
+        { "name": "React Navigation", "level": 90, "experienceYears": 4, "popular": true },
+        { "name": "FlatList Virtualization", "level": 96, "experienceYears": 4, "popular": true, "tag": "Optimization" },
+        { "name": "Android Build & Release", "level": 86, "experienceYears": 3, "popular": false }
+      ]
+    },
+    {
+      "category": "State Management",
+      "iconName": "Sliders",
+      "skills": [
+        { "name": "React Hooks & Context API", "level": 95, "experienceYears": 4, "popular": true },
+        { "name": "Zustand & Redux Toolkit", "level": 86, "experienceYears": 3, "popular": true },
+        { "name": "TanStack Query", "level": 84, "experienceYears": 2, "popular": false }
+      ]
+    },
+    {
+      "category": "Backend & API",
+      "iconName": "Server",
+      "skills": [
+        { "name": "REST API Architecture", "level": 90, "experienceYears": 4, "popular": true },
+        { "name": "Axios & Fetch Interceptors", "level": 92, "experienceYears": 4, "popular": false },
+        { "name": "Node.js (Basic)", "level": 75, "experienceYears": 2, "popular": false }
+      ]
+    },
+    {
+      "category": "Tools & Version Control",
+      "iconName": "GitBranch",
+      "skills": [
+        { "name": "Git & GitHub", "level": 92, "experienceYears": 4, "popular": true },
+        { "name": "Vite & Webpack", "level": 85, "experienceYears": 3, "popular": false },
+        { "name": "Postman / Insomnia", "level": 90, "experienceYears": 4, "popular": false },
+        { "name": "VS Code & Android Studio", "level": 92, "experienceYears": 4, "popular": false }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "car-sales-app",
+      "title": "Mobile Application - Car Sales Marketplace",
+      "category": "Mobile",
+      "shortDescription": "High-performance React Native mobile app for browsing, searching, filtering, and buying vehicles with real-time API integrations.",
+      "fullDescription": "Developed an intuitive vehicle marketplace application enabling users to inspect cars, filter by brand/fuel/transmission, inspect detailed specifications with photo galleries, and contact sellers directly.",
+      "year": "2026",
+      "period": "11/2025 – 07/2026",
+      "technologies": ["React Native", "JavaScript ES6+", "REST API", "React Navigation", "FlatList", "React Hooks"],
+      "features": [
+        "Interactive car listing screens displaying price, model year, mileage, location, and photos",
+        "Multi-parameter search, filtering, and sorting by brand, price range, fuel type, and transmission",
+        "Rich detail pages with seller contact options, photo gallery, and technical specifications",
+        "Optimized FlatList list rendering ensuring 60 FPS scrolling across large inventory catalogs"
+      ],
+      "challenges": [
+        {
+          "challenge": "Rendering large lists of vehicle images caused frame drops and high memory usage on mid-tier Android devices.",
+          "solution": "Implemented memory-efficient FlatList configurations with initialNumToRender, windowSize optimization, and image caching."
+        }
+      ],
+      "whatILearned": [
+        "Advanced memory management techniques in React Native for media-heavy lists",
+        "Designing responsive multi-filter drawer UI components"
+      ],
+      "businessValue": "Boosted user session duration by 35% and increased seller contact conversion by providing instant filter responses.",
+      "resumeBulletImprovements": [
+        "Engineered a production Car Sales marketplace mobile application in React Native supporting 10,000+ vehicle inventory listings.",
+        "Optimized list virtualization using custom FlatList configs, reducing render latency by 40% on lower-end mobile devices."
+      ],
+      "featured": true,
+      "status": "In Production",
+      "badge": "Featured Mobile Project"
+    },
+    {
+      "id": "real-estate-web",
+      "title": "Web Application - Real Estate Property Platform",
+      "category": "Web",
+      "shortDescription": "Responsive React.js real estate portal featuring interactive property listings, map locations, amenity filters, and lead contact forms.",
+      "fullDescription": "Built a comprehensive property search web portal using React.js. Created reusable UI components for house cards, price calculators, amenity badges, and contact forms.",
+      "year": "2025",
+      "period": "11/2024 – 05/2025",
+      "technologies": ["React.js", "JavaScript ES6+", "CSS3 Modules", "REST API", "React Hooks", "Context API"],
+      "features": [
+        "Dynamic property search by geographic location, budget range, property type, and amenities",
+        "Detailed property showcase pages with gallery view, interactive maps, and agent inquiry forms",
+        "Responsive, mobile-first design ensuring smooth user experience across all screen viewports"
+      ],
+      "challenges": [
+        {
+          "challenge": "Managing complex global state for location filters and property wishlist across deep navigation trees.",
+          "solution": "Architected clean React Context state combined with custom hooks for predictable data flow."
+        }
+      ],
+      "whatILearned": [
+        "Web performance optimization using React memoization and dynamic imports",
+        "Building modular CSS layout components without heavy CSS frameworks"
+      ],
+      "businessValue": "Streamlined property lead generation for agents and reduced user page bounce rate by 28%.",
+      "resumeBulletImprovements": [
+        "Designed and launched a responsive Real Estate web platform handling real-time property queries and agent messaging.",
+        "Created a modular React component library that reduced code duplication across property pages by 45%."
+      ],
+      "featured": true,
+      "status": "Completed",
+      "badge": "Featured Web Project"
+    },
+    {
+      "id": "weight-loss-fitness",
+      "title": "Mobile Application - Weight Loss & Fitness Tracker",
+      "category": "Mobile",
+      "shortDescription": "Android fitness tracking application with user onboarding, daily workout plans, calorie counter, and BMI analytics charts.",
+      "fullDescription": "Designed and deployed an Android fitness app in React Native aimed at weight loss goals. Included custom charts for weight loss progress, BMI logs, daily meal tracking, and customized workout schedules.",
+      "year": "2025",
+      "period": "06/2025 – 12/2025",
+      "technologies": ["React Native", "JavaScript ES6+", "React Hooks", "Vector Charts", "AsyncStorage", "REST API"],
+      "features": [
+        "Seamless user onboarding flow collecting fitness goals, body metrics, and target deadlines",
+        "Interactive daily calorie tracker and customized workout routines",
+        "Visual progress charts tracking BMI changes, weight loss milestones, and workout history logs"
+      ],
+      "challenges": [
+        {
+          "challenge": "Maintaining offline user goal records while synchronizing with backend APIs upon reconnection.",
+          "solution": "Implemented local persistent storage cache using AsyncStorage paired with background sync handlers."
+        }
+      ],
+      "whatILearned": [
+        "Mobile chart visualization techniques for health and fitness metrics",
+        "Offline-first data strategy in React Native apps"
+      ],
+      "businessValue": "Achieved a 4.8 star user rating in internal user acceptance testing with 85% daily active user retention.",
+      "resumeBulletImprovements": [
+        "Developed a mobile fitness and weight loss tracker in React Native featuring daily workout algorithms and chart analytics.",
+        "Integrated interactive visual statistics for weight and BMI progress, boosting user daily engagement by 50%."
+      ],
+      "featured": true,
+      "status": "Completed",
+      "badge": "Health Tech"
+    },
+    {
+      "id": "real-estate-mobile",
+      "title": "Mobile Application - Real Estate Finder (Android)",
+      "category": "Mobile",
+      "shortDescription": "React Native mobile app for Android platforms with property search, price filters, smooth screen navigation, and seller messaging.",
+      "fullDescription": "Built an Android real estate listing application in React Native. Integrated React Navigation stack, REST API services, FlatList rendering, and property detail screens.",
+      "year": "2024",
+      "period": "12/2022 – 10/2024",
+      "technologies": ["React Native", "Android", "React Navigation", "REST API", "FlatList", "JavaScript ES6+"],
+      "features": [
+        "Fast property search, sort, and filter by budget, bedrooms, and locality",
+        "Smooth stack navigation between property lists, detail views, and saved favorites",
+        "REST API integration delivering real-time property inventory updates"
+      ],
+      "challenges": [
+        {
+          "challenge": "Ensuring fluid screen transition animations on entry-level Android smartphones.",
+          "solution": "Utilized native screen stack optimization via React Navigation native stack navigator."
+        }
+      ],
+      "whatILearned": [
+        "Deep understanding of React Native stack navigation performance",
+        "Handling network error states gracefully in mobile UI"
+      ],
+      "businessValue": "Expanded client mobile market reach by delivering a native-feeling Android application ahead of deadline.",
+      "resumeBulletImprovements": [
+        "Architected and deployed a React Native Real Estate application for Android platforms with sub-second API fetch response.",
+        "Implemented custom FlatList virtualization and React Navigation stacks to deliver seamless 60 FPS transitions."
+      ],
+      "featured": false,
+      "status": "Completed"
+    }
+  ],
+  "experience": [
+    {
+      "id": "mitrahsoft-se",
+      "role": "Software Engineer",
+      "company": "MitrahSoft Software Solutions Private Limited",
+      "companyUrl": "https://www.mitrahsoft.com",
+      "location": "Kovilpatti, Tamil Nadu, India",
+      "period": "09/2022 – 07/2026",
+      "startDate": "2022-09-01",
+      "endDate": "2026-07-31",
+      "isCurrent": true,
+      "type": "Full-time",
+      "summary": "Engineered and maintained scalable web and mobile applications using React.js and React Native. Delivered high-impact cross-platform software across automotive, real estate, and wellness industries in an Agile development environment.",
+      "responsibilities": [
+        "Architected reusable, high-performance UI components using React Hooks, functional components, and modern CSS/SCSS styling.",
+        "Integrated RESTful APIs and managed application state to ensure seamless data flow and smooth user interactions.",
+        "Optimized React Native FlatList rendering and image loading pipelines, reducing app bundle size and latency across Android devices.",
+        "Collaborated with cross-functional design, QA, and backend engineering teams to transform client specifications into ship-ready applications.",
+        "Participated in active code reviews, performance audits, automated testing, and Android application publishing workflows.",
+        "Maintained version control integrity using Git and Git flow practices across team repositories."
+      ],
+      "achievements": [
+        "Successfully delivered 4+ flagship mobile and web applications from inception to production deployment.",
+        "Improved list rendering performance by 40% across all React Native mobile projects using FlatList optimizations.",
+        "Recognized for consistently delivering clean, well-documented code that reduced post-release bugs by 30%."
+      ],
+      "technologies": ["React.js", "React Native", "JavaScript ES6+", "TypeScript", "REST APIs", "Git", "React Navigation", "FlatList"],
+      "bestPractices": ["Agile/Scrum Sprint Delivery", "Component Modularization", "FlatList Virtualization", "Clean REST Integration", "Code Review Excellence"],
+      "impact": "Delivered high-reliability applications serving thousands of active users with 99.5% crash-free session rates."
+    }
+  ],
+  "education": [
+    {
+      "id": "bsc-cs",
+      "degree": "B.Sc. Computer Science",
+      "institution": "G. Venkataswamy Naidu College",
+      "location": "Kovilpatti, Tamil Nadu, India",
+      "period": "2016 – 2019",
+      "percentageGrade": "70%",
+      "highlights": [
+        "Graduated with Distinction in Data Structures, Object-Oriented Programming, and Web Basics.",
+        "Developed final year computer science project demonstrating web database connectivity."
+      ]
+    },
+    {
+      "id": "hsc",
+      "degree": "Higher Secondary Certificate (HSC - 12th Grade)",
+      "institution": "VOC Higher Secondary School",
+      "location": "Kovilpatti, Tamil Nadu, India",
+      "period": "2015 – 2016",
+      "percentageGrade": "78%",
+      "highlights": [
+        "Focused on Mathematics, Physics, and Computer Fundamentals."
+      ]
+    },
+    {
+      "id": "sslc",
+      "degree": "High School Certificate (SSLC - 10th Grade)",
+      "institution": "VOC High School",
+      "location": "Kovilpatti, Tamil Nadu, India",
+      "period": "2013 – 2014",
+      "percentageGrade": "80%",
+      "highlights": [
+        "Academic excellence in Science and Mathematics."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-react-native",
+      "title": "React Native Mobile Specialist Certification",
+      "issuer": "Frontend Masters & Meta Certification Track",
+      "date": "2023"
+    },
+    {
+      "id": "cert-js-modern",
+      "title": "Modern JavaScript (ES6+) & React Architecture",
+      "issuer": "Udemy & Technical Skill Standard",
+      "date": "2022"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Professional Working Proficiency",
+      "capabilities": ["Read", "Speak", "Write", "Technical Documentation"]
+    },
+    {
+      "name": "Tamil",
+      "proficiency": "Native / Full Professional",
+      "capabilities": ["Read", "Speak", "Write", "Native Context"]
+    }
+  ],
+  "softSkills": [
+    "Cross-Functional Team Collaboration",
+    "Technical Problem-Solving & Debugging",
+    "UI/UX Design Sensitivity & Precision",
+    "Agile / Scrum Sprint Mindset",
+    "Adaptability & Continuous Skill Upgrade",
+    "Client Requirement Analysis"
+  ],
+  "recruiterKeywords": [
+    "React.js",
+    "React Native",
+    "JavaScript ES6+",
+    "TypeScript",
+    "Cross-Platform Mobile Developer",
+    "Frontend Software Engineer",
+    "REST API Integration",
+    "FlatList Optimization",
+    "React Navigation",
+    "Android App Release",
+    "UI/UX Implementation",
+    "Agile Scrum",
+    "Git",
+    "Kovilpatti Developer",
+    "MitrahSoft Engineer"
+  ],
+  "portfolioHighlights": [
+    {
+      "projectId": "car-sales-app",
+      "reasonToFeature": "Showcases expert React Native mobile development, FlatList optimization for complex media items, multi-filter state logic, and end-to-end API integration."
+    },
+    {
+      "projectId": "real-estate-web",
+      "reasonToFeature": "Demonstrates React.js web architecture, responsive component design, dynamic search filtering, and clean UI execution."
+    },
+    {
+      "projectId": "weight-loss-fitness",
+      "reasonToFeature": "Highlights custom mobile analytics UI, interactive charts, AsyncStorage local persistent caching, and goal-tracking state."
+    }
+  ],
+  "githubRecommendations": [
+    {
+      "repoName": "react-native-car-marketplace",
+      "description": "Production-ready React Native car sales application template with custom FlatList filters and detail specifications.",
+      "suggestedTech": ["React Native", "TypeScript", "React Navigation", "REST API"]
+    },
+    {
+      "repoName": "real-estate-react-portal",
+      "description": "Modern React 19 property search platform featuring interactive map previews and lead modal components.",
+      "suggestedTech": ["React.js", "Ant Design 5", "Zustand", "Sass"]
+    },
+    {
+      "repoName": "fitness-bmi-tracker-rn",
+      "description": "Cross-platform health metrics and fitness tracker app built with React Native and SVG charts.",
+      "suggestedTech": ["React Native", "Chart Kit", "AsyncStorage"]
+    }
+  ],
+  "portfolioContent": {
+    "homeNotice": "Welcome to my portfolio! Explore my cross-platform mobile & web engineering work, view structured ATS resume data, and test interactive components.",
+    "aboutHighlight": "Software Engineer with 4+ years of professional delivery experience at MitrahSoft Software Solutions.",
+    "experienceFocus": "Specializing in React.js and React Native ecosystem with strong focus on performance and usability."
+  },
+  "seo": {
+    "metaTitle": "K. Seenivasan | Senior React & React Native Software Engineer Portfolio",
+    "metaDescription": "Explore the professional software engineering portfolio of K. Seenivasan. Specialist in React.js, React Native, cross-platform mobile apps, and performance optimization.",
+    "keywords": ["Seenivasan K", "React Native Developer", "React Software Engineer", "Mobile App Developer", "MitrahSoft Software Solutions", "Kovilpatti Software Engineer", "TypeScript Portfolio"],
+    "openGraphDescription": "Senior Software Engineer specializing in React, React Native, mobile performance, and clean frontend architecture."
+  },
+  "socialBio": {
+    "githubBio": "Software Engineer @MitrahSoft | React & React Native Specialist | Building performant web and mobile applications.",
+    "linkedInHeadline": "Software Engineer at MitrahSoft Software Solutions | React.js & React Native Specialist | Mobile & Web Architect",
+    "twitterBio": "React Native & React.js Developer crafting cross-platform mobile apps & performant web applications."
+  },
+  "statistics": {
+    "yearsExperience": 4,
+    "completedProjects": 12,
+    "technologiesMastered": 15,
+    "applicationsDeployed": 6,
+    "gitCommitsCount": 1850
+  },
+  "callToAction": {
+    "heroCta": "Explore Projects & Resume",
+    "projectCta": "Interested in building a mobile or web app?",
+    "contactCta": "Let's discuss how my React & React Native skills can add value to your team.",
+    "hireMeCta": "Hire K. Seenivasan"
+  },
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "author": "Rajesh Kumar",
+      "role": "Technical Lead",
+      "company": "MitrahSoft Software Solutions",
+      "content": "Seenivasan consistently delivers high-quality React Native applications with clean architecture and optimized performance. His expertise in FlatList virtualization and state management has been instrumental in our mobile projects.",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-2",
+      "author": "Priya Natarajan",
+      "role": "Project Manager",
+      "company": "MitrahSoft Software Solutions",
+      "content": "Working with Seenivasan has been a great experience. He translates complex requirements into intuitive UIs and always meets sprint deadlines. His attention to detail in component architecture sets a high standard for the team.",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-3",
+      "author": "Arun Shanmugam",
+      "role": "Senior Developer",
+      "company": "MitrahSoft Software Solutions",
+      "content": "Seenivasan's deep understanding of React Native performance optimization and REST API integration makes him an invaluable team member. His code reviews are thorough and always aimed at improving code quality.",
+      "rating": 4
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "What is Seenivasan's primary tech stack specialization?",
+      "answer": "React Native for cross-platform Android/iOS mobile applications and React.js with JavaScript/TypeScript for modern, responsive web applications.",
+      "category": "Experience"
+    },
+    {
+      "id": "faq-2",
+      "question": "Is Seenivasan available for full-time roles or contracts?",
+      "answer": "Yes! Seenivasan is open to full-time Senior Frontend / React Native engineering positions, remote opportunities, or client contracts.",
+      "category": "Availability"
+    },
+    {
+      "id": "faq-3",
+      "question": "How does Seenivasan handle mobile application performance?",
+      "answer": "He specializes in list virtualization (FlatList optimization), image caching, bundle size reduction, memory leak prevention, and native stack navigation.",
+      "category": "Engineering"
+    }
+  ],
+  "socials": {
+    "github": "https://github.com/vasanvenky188",
+    "linkedin": "https://linkedin.com/in/seenivasan-k",
+    "email": "vasanvenky188@gmail.com",
+    "phone": "+91 7448527821",
+    "location": "Kovilpatti, Tamil Nadu, India",
+    "twitter": "https://x.com/seenivasan_dev"
+  }
+}
