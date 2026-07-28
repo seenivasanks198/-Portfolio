@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:06b6d4&height=220&section=header&text=K.%20Seenivasan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20React%20%26%20React%20Native%20Specialist&descAlignY=55&descSize=18&descColor=e0f2fe" width="100%" alt="K. Seenivasan - Senior Software Engineer" />
+<!-- Static Header Banner -->
+<div style="background: linear-gradient(135deg, #0284c7, #06b6d4); border-radius: 12px; padding: 48px 24px 32px; text-align: center; color: white; margin-bottom: 16px;">
+  <h1 style="margin: 0; font-size: 2.8em; font-weight: 700; letter-spacing: -0.5px;">K. Seenivasan</h1>
+  <p style="margin: 8px 0 0; font-size: 1em; opacity: 0.9; font-weight: 400;">Senior Software Engineer | React &amp; React Native Specialist</p>
+</div>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0284C7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Architecting+High-Performance+Cross-Platform+Apps;React+%7C+React+Native+%7C+TypeScript+%7C+JavaScript" alt="Typing SVG" /></a>
