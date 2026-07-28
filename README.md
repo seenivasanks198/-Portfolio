@@ -319,7 +319,7 @@ I'm always open to discussing **new opportunities**, **collaborative projects**,
 
 <br/>
 
-<a href="mailto:vasanvenky188@gmail.com"><img src="https://img.shields.io/badge/📧_vasanvenky188@gmail.com-EA4335?style=for-the-badge&logoColor=white" alt="Email" /></a> <a href="tel:+917448527821"><img src="https://img.shields.io/badge/📞_+91_7448527821-10b981?style=for-the-badge&logoColor=white" alt="Phone" /></a> <a href="https://linkedin.com/in/seenivasan-k"><img src="https://img.shields.io/badge/LinkedIn-Seenivasan_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/seenivasanks198"><img src="https://img.shields.io/badge/GitHub-seenivasanks198-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://x.com/seenivasan_dev"><img src="https://img.shields.io/badge/Twitter-@seenivasan__dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="mailto:seenivasancheck19@gmail.com"><img src="https://img.shields.io/badge/📧_seenivasancheck19@gmail.com-EA4335?style=for-the-badge&logoColor=white" alt="Email" /></a> <a href="tel:+917448527821"><img src="https://img.shields.io/badge/📞_+91_7448527821-10b981?style=for-the-badge&logoColor=white" alt="Phone" /></a> <a href="https://linkedin.com/in/seenivasan-k"><img src="https://img.shields.io/badge/LinkedIn-Seenivasan_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/seenivasanks198"><img src="https://img.shields.io/badge/GitHub-seenivasanks198-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 

@@ -141,13 +141,11 @@ export interface SocialLinks {
   email: string;
   phone: string;
   location: string;
-  twitter?: string;
 }
 
 export interface SocialBios {
   githubBio: string;
   linkedInHeadline: string;
-  twitterBio: string;
 }
 
 export interface SeoData {

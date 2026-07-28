@@ -382,8 +382,7 @@
   },
   "socialBio": {
     "githubBio": "Software Engineer @MitrahSoft | React & React Native Specialist | Building performant web and mobile applications.",
-    "linkedInHeadline": "Software Engineer at MitrahSoft Software Solutions | React.js & React Native Specialist | Mobile & Web Architect",
-    "twitterBio": "React Native & React.js Developer crafting cross-platform mobile apps & performant web applications."
+    "linkedInHeadline": "Software Engineer at MitrahSoft Software Solutions | React.js & React Native Specialist | Mobile & Web Architect"
   },
   "statistics": {
     "yearsExperience": 4,
@@ -445,11 +444,10 @@
     }
   ],
   "socials": {
-    "github": "https://github.com/vasanvenky188",
+    "github": "https://github.com/seenivasanks198",
     "linkedin": "https://linkedin.com/in/seenivasan-k",
-    "email": "vasanvenky188@gmail.com",
+    "email": "seenivasancheck19@gmail.com",
     "phone": "+91 7448527821",
-    "location": "Kovilpatti, Tamil Nadu, India",
-    "twitter": "https://x.com/seenivasan_dev"
+    "location": "Kovilpatti, Tamil Nadu, India"
   }
 }
