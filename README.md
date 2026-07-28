@@ -1,28 +1,21 @@
 <div align="center">
 
 <!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:06b6d4&height=220&section=header&text=K.%20Seenivasan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20React%20%26%20React%20Native%20Specialist&descAlignY=55&descSize=18&descColor=e0f2fe" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:06b6d4&height=220&section=header&text=K.%20Seenivasan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20React%20%26%20React%20Native%20Specialist&descAlignY=55&descSize=18&descColor=e0f2fe" width="100%" alt="K. Seenivasan - Senior Software Engineer" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0284C7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Architecting+High-Performance+Cross-Platform+Apps;React+%7C+React+Native+%7C+TypeScript+%7C+JavaScript" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0284C7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Architecting+High-Performance+Cross-Platform+Apps;React+%7C+React+Native+%7C+TypeScript+%7C+JavaScript" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Profile Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-0284c7?style=for-the-badge&logoColor=white)](https://github.com/seenivasanks198/-Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seenivasan-k)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seenivasanks198)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanvenky188@gmail.com)
+<a href="https://github.com/seenivasanks198/-Portfolio"><img src="https://img.shields.io/badge/🌐_Portfolio-Live-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio" /></a> <a href="https://linkedin.com/in/seenivasan-k"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/seenivasanks198"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:vasanvenky188@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/>
+<br/><br/>
 
 <!-- Stats Badges -->
-<img src="https://img.shields.io/badge/Experience-4%2B%20Years-0284c7?style=flat-square&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/Projects-12%2B%20Delivered-06b6d4?style=flat-square&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/Technologies-15%2B%20Mastered-8b5cf6?style=flat-square&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/Apps%20Deployed-6%2B-10b981?style=flat-square&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-0284c7?style=flat-square&labelColor=0f172a" alt="Experience" /> <img src="https://img.shields.io/badge/Projects-12%2B%20Delivered-06b6d4?style=flat-square&labelColor=0f172a" alt="Projects" /> <img src="https://img.shields.io/badge/Technologies-15%2B%20Mastered-8b5cf6?style=flat-square&labelColor=0f172a" alt="Technologies" /> <img src="https://img.shields.io/badge/Apps%20Deployed-6%2B-10b981?style=flat-square&labelColor=0f172a" alt="Apps Deployed" />
+
 </div>
 
 ---
@@ -63,32 +56,14 @@ I'm a **results-driven Software Engineer** with **4+ years** of professional exp
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
+<h4>Core Technologies</h4>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-### Core Technologies
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h4>Libraries & Frameworks</h4>
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" /> <img src="https://img.shields.io/badge/React_Navigation-6B52AE?style=for-the-badge&logoColor=white" alt="React Navigation" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white" alt="Zustand" /> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" /> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 
-### Libraries & Frameworks
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![React Navigation](https://img.shields.io/badge/React_Navigation-6B52AE?style=for-the-badge&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
+<h4>Tools & Platforms</h4>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
 
 <details>
@@ -119,14 +94,12 @@ I'm a **results-driven Software Engineer** with **4+ years** of professional exp
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚗 Car Sales Marketplace
 **Mobile App** · `In Production` · `2026`
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square)
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /> <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square" alt="REST API" />
 
 High-performance React Native app for browsing, searching, filtering, and buying vehicles with real-time API integrations.
 
@@ -137,14 +110,12 @@ High-performance React Native app for browsing, searching, filtering, and buying
 - 📈 **+35% user session duration improvement**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 Real Estate Property Platform
 **Web App** · `Completed` · `2025`
 
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-764ABC?style=flat-square)
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" /> <img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Modules" /> <img src="https://img.shields.io/badge/Context_API-764ABC?style=flat-square" alt="Context API" />
 
 Responsive React.js portal with interactive property listings, map locations, amenity filters, and lead contact forms.
 
@@ -157,14 +128,12 @@ Responsive React.js portal with interactive property listings, map locations, am
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💪 Weight Loss & Fitness Tracker
 **Mobile App** · `Completed` · `2025`
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AsyncStorage](https://img.shields.io/badge/AsyncStorage-339933?style=flat-square)
-![Charts](https://img.shields.io/badge/Vector_Charts-8b5cf6?style=flat-square)
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /> <img src="https://img.shields.io/badge/AsyncStorage-339933?style=flat-square" alt="AsyncStorage" /> <img src="https://img.shields.io/badge/Vector_Charts-8b5cf6?style=flat-square" alt="Charts" />
 
 Android fitness app with user onboarding, daily workout plans, calorie counter, and BMI analytics charts.
 
@@ -175,14 +144,12 @@ Android fitness app with user onboarding, daily workout plans, calorie counter, 
 - ⭐ **4.8★ user rating · 85% daily retention**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏘️ Real Estate Finder (Android)
 **Mobile App** · `Completed` · `2024`
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![React Navigation](https://img.shields.io/badge/Navigation-6B52AE?style=flat-square)
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/Navigation-6B52AE?style=flat-square" alt="React Navigation" />
 
 React Native Android app with property search, price filters, smooth navigation, and seller messaging.
 
@@ -200,7 +167,7 @@ React Native Android app with property search, price filters, smooth navigation,
 
 ## 💼 Professional Experience
 
-<img src="https://img.shields.io/badge/MitrahSoft_Software_Solutions-0284c7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MitrahSoft_Software_Solutions-0284c7?style=for-the-badge&logoColor=white" alt="MitrahSoft" />
 
 ### Software Engineer · Full-time
 📅 **Sep 2022 – Jul 2026** · 📍 Kovilpatti, Tamil Nadu, India
@@ -245,11 +212,7 @@ React Native Android app with property search, price filters, smooth navigation,
 ## 📜 Certifications
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/📱_React_Native_Mobile_Specialist-Frontend_Masters_&_Meta-0284c7?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/⚡_Modern_JavaScript_(ES6+)_&_React_Architecture-Udemy-06b6d4?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/📱_React_Native_Mobile_Specialist-Frontend_Masters_%26_Meta-0284c7?style=for-the-badge" alt="React Native Cert" /> <img src="https://img.shields.io/badge/⚡_Modern_JavaScript_(ES6%2B)_%26_React_Architecture-Udemy-06b6d4?style=for-the-badge" alt="JS Cert" />
 </div>
 
 ---
@@ -317,16 +280,9 @@ This portfolio is built as a **modern React + Vite** application with an enterpr
 
 ### 🧰 Built With
 
-![React 19](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-06B6D4?style=flat-square&logo=tailwindcss)
-![Ant Design](https://img.shields.io/badge/Ant_Design-6-0170FE?style=flat-square&logo=antdesign)
-![Zustand](https://img.shields.io/badge/Zustand-5-443E38?style=flat-square)
-![Motion](https://img.shields.io/badge/Motion-12-FF4154?style=flat-square)
-![i18next](https://img.shields.io/badge/i18next-26-26A69A?style=flat-square)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7-EC5990?style=flat-square)
-![Zod](https://img.shields.io/badge/Zod-4-3E67B1?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" alt="React 19" /> <img src="https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite" alt="Vite" /> <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript" alt="TypeScript" /> <img src="https://img.shields.io/badge/TailwindCSS-4-06B6D4?style=flat-square&logo=tailwindcss" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Ant_Design-6-0170FE?style=flat-square&logo=antdesign" alt="Ant Design" /> <img src="https://img.shields.io/badge/Zustand-5-443E38?style=flat-square" alt="Zustand" /> <img src="https://img.shields.io/badge/Motion-12-FF4154?style=flat-square" alt="Motion" /> <img src="https://img.shields.io/badge/i18next-26-26A69A?style=flat-square" alt="i18next" /> <img src="https://img.shields.io/badge/React_Hook_Form-7-EC5990?style=flat-square" alt="React Hook Form" /> <img src="https://img.shields.io/badge/Zod-4-3E67B1?style=flat-square" alt="Zod" />
+</p>
 
 ---
 
@@ -358,15 +314,13 @@ npm run dev
 
 I'm always open to discussing **new opportunities**, **collaborative projects**, or just a friendly tech chat!
 
-[![Email Me](https://img.shields.io/badge/📧_vasanvenky188@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:vasanvenky188@gmail.com)
-[![Call Me](https://img.shields.io/badge/📞_+91_7448527821-10b981?style=for-the-badge&logoColor=white)](tel:+917448527821)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seenivasan_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seenivasan-k)
-[![GitHub](https://img.shields.io/badge/GitHub-seenivasanks198-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seenivasanks198)
-[![Twitter](https://img.shields.io/badge/Twitter-@seenivasan__dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/seenivasan_dev)
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:06b6d4&height=120&section=footer" width="100%" />
+<a href="mailto:vasanvenky188@gmail.com"><img src="https://img.shields.io/badge/📧_vasanvenky188@gmail.com-EA4335?style=for-the-badge&logoColor=white" alt="Email" /></a> <a href="tel:+917448527821"><img src="https://img.shields.io/badge/📞_+91_7448527821-10b981?style=for-the-badge&logoColor=white" alt="Phone" /></a> <a href="https://linkedin.com/in/seenivasan-k"><img src="https://img.shields.io/badge/LinkedIn-Seenivasan_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/seenivasanks198"><img src="https://img.shields.io/badge/GitHub-seenivasanks198-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://x.com/seenivasan_dev"><img src="https://img.shields.io/badge/Twitter-@seenivasan__dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:06b6d4&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
 
